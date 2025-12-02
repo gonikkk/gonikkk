@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/ATmega128-000000?style=for-the-badge&logo=atmel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZYNQ-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white"/>
 </p>
 
 ### ⚙️ Firmware & System Software
