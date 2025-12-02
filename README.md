@@ -69,6 +69,9 @@
 <table> <tr> <th align="left" width="30%">Award</th> <th align="left" width="70%">Description</th> </tr> <tr> <td><b>인텔 Edge AI 8기 실무 경진 프로젝트</b></td> <td>AI 기반 컨베이어  프로젝트 우수상 평가</td> </tr></table>
 
 ---
+## 📚 교육 이력
+<table> <tr> <th align="left" width="30%">Program</th> <th align="left" width="70%">Details</th> </tr> <tr> <td><b>대한상공회의소 서울기술교육센터 – Edge AI S/W 8기</b></td> <td> • IoT 시스템 구현 (STM32, RP4, ESP8266)<br> • 인공지능 모델 운영 (Intel Geti)<br> • 스마트 팩토리 자동화 프로젝트 수행 </td> </tr> <tr> <td><b>Cheongju University – Electronic Engineering</b></td> <td> • 전자공학 전공<br> • MCU · 임베디드 시스템 심화<br> • 센서 및 로봇 시스템 설계 </td> </tr> </table>
+---
 
 ## 📬 Contact
 - 📧 Email: **sungon47@gmail.com**  
