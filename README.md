@@ -59,13 +59,6 @@
   <img src="https://img.shields.io/badge/Computer Vision-0099FF?style=for-the-badge"/>
 </p>
 
-### 💡 Hardware Design & FPGA
-<p>
-  <img src="https://img.shields.io/badge/FPGA(ZYNQ)-F80000?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitis-0095D5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KiCad PCB-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
-</p>
 
 
 ---
@@ -186,6 +179,5 @@
 ---
 
 ## 📬 Contact
-- 📧 Email: **dbwhdals1030@naver.com**  
-- 🔗 GitHub: https://github.com/YJM00  
-- 🧭 Portfolio(NOTION): https://www.notion.so/165c2d94ef764bc18877b801a251cc28e
+- 📧 Email: **sungon47@gmail.com**  
+- 🔗 GitHub: https://github.com/gonikkk 
