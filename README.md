@@ -183,17 +183,6 @@
 
 </table>
 
-
-
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YJM00&show_icons=true&theme=transparent" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJM00&layout=compact&theme=transparent"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=YJM00&theme=transparent"/>
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=YJM00&theme=flat&column=6"/>
-</div>
-
 ---
 
 ## 📬 Contact
