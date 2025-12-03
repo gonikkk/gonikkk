@@ -50,7 +50,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
   <img src="https://img.shields.io/badge/ARM Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-404040?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GStreamer-3085C3?style=flat&logo=gstreamer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GStreamer-3776AB?style=for-the-badge&logo=gstreamer&logoColor=white"/>
 </p>
 
 ### 🤖 Robotics & Vision
