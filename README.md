@@ -48,7 +48,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 ### ⚙️ Firmware & System Software
 <p>
   <img src="https://img.shields.io/badge/Firmware-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BSP(Board Support Package)-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BSP-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ARM Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-404040?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
