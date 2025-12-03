@@ -55,7 +55,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 
 ### 🤖 Robotics & Vision
 <p>
-  <img src="https://img.shields.io/badge/ROS2-233F8D?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-233F8D?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLAM-2E8B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer Vision-0099FF?style=for-the-badge"/>
