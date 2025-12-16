@@ -72,7 +72,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 
 ---
 ## 🎓자격증/어학
-<table> <tr> <th align="left" width="30%">Award</th> <th align="left" width="70%">Description</th> </tr> <tr> <td><b>인텔 Edge AI 8기 실무 경진 프로젝트</b></td> <td>AI 기반 컨베이어  프로젝트 우수상 평가</td> </tr></table>
+<table> <tr> <th align="left" width="30%">A</th> <th align="left" width="70%">Description</th> </tr> <tr> <td><b>인텔 Edge AI 8기 실무 경진 프로젝트</b></td> <td>AI 기반 컨베이어  프로젝트 우수상 평가</td> </tr></table>
 
 ---
 ## 🏆 수상 경력
