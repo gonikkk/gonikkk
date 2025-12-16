@@ -72,7 +72,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 
 ---
 ## 🎓자격증/어학
-<table> <tr> <th align="left" width="30%">A</th> <th align="left" width="70%">Description</th> </tr> <tr> <td><b>인텔 Edge AI 8기 실무 경진 프로젝트</b></td> <td>AI 기반 컨베이어  프로젝트 우수상 평가</td> </tr></table>
+<table><tr><th align="left" width="30%">Certification</th><th align="left" width="70%">Date Earned / Issuer</th></tr><tr><td><b>운전면허 1종 보통</b></td><td>2016.03.07 · 충북지방경찰청</td></tr><tr><td><b>리눅스마스터 2급</b></td><td>2026.01.02 · 한국정보통신인력개발센터(KAIT)</td></tr></table>
 
 ---
 ## 🏆 수상 경력
@@ -81,8 +81,8 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 ---
 ## 📚 교육 이력
 <table> <tr> <th align="left" width="30%">Program</th> <th align="left" width="70%">Details</th> </tr> <tr> <td><b>대한상공회의소 서울기술교육센터 – Edge AI S/W 8기</b></td> <td> • IoT 시스템 구현 (STM32, RP4, ESP8266)<br> • 인공지능 모델 운영 (Intel Geti)<br> • 스마트 팩토리 자동화 프로젝트 수행 </td> </tr> <tr> <td><b>Cheongju University – Electronic Engineering</b></td> <td> • 전자공학 전공<br> • MCU · 임베디드 시스템 심화 </td> </tr> </table>
----
 
+---
 ## 📬 Contact
 - 📧 Email: **sungon47@gmail.com**  
 - 🔗 GitHub: https://github.com/gonikkk 
