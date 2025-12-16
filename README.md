@@ -72,7 +72,7 @@ MCU 제어, 통신, 센서 연동, 실시간 데이터 처리 등 핵심 기술�
 
 ---
 ## 🎓자격증/어학
-<table><tr><th align="left" width="30%">Certification</th><th align="left" width="70%">Date Earned / Issuer</th></tr><tr><td><b>운전면허 1종 보통</b></td><td>2016.03.07 · 충북지방경찰청</td></tr><tr><td><b>리눅스마스터 2급</b></td><td>2026.01.02 · 한국정보통신인력개발센터(KAIT)</td></tr></table>
+<table><tr><th align="left" width="35%">Certification</th><th align="left" width="25%">Date Earned</th><th align="left" width="40%">Issuer</th></tr><tr><td><b>운전면허 1종 보통</b></td><td>2016.03.07</td><td>충북지방경찰청</td></tr><tr><td><b>리눅스마스터 2급</b></td><td>2026.01.02</td><td>한국정보통신인력개발센터(KAIT)</td></tr></table>
 
 ---
 ## 🏆 수상 경력
